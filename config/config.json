@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
+    "username": "graphuser",
+    "password": "graphpass",
     "database": "pagofacilgraph",
-    "host": "127.0.0.1",
+    "host": "85.10.205.173",
     "dialect": "mysql"
   },
   "test": {
